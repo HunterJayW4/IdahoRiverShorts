@@ -2,7 +2,7 @@
     <head>
         <div id="Header">
             <div id="HeaderRec">
-                <img src= "Images/newlogo.png" alt="logo" id = "Logo">
+                <img src= "Images/logoTemp2.png" alt="logo" id = "Logo">
                 <img src= "Images/cart.png" alt="ShoppingCart" id = "Cart">
             </div>
         </div>

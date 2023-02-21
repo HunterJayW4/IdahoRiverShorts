@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <?php include("Header.php"); ?>
 <html>
-<title>Idaho River Shorts</title>
-<link rel="stylesheet" href="Style.css">
-<link rel="icon" type="image/png" href="/Images/shorts.png">
+    <title>Idaho River Shorts</title>
+    <head>
+        <link rel="stylesheet" href="Style.css">
+    </head>
 
-
-
-        <body>
-            <p>
+    <link rel="icon" type="image/png" href="/Images/shorts.png">
+    <body>
+    <img src="Images/VerticalRiver.jpg", alt="riverImage", id="homeIMG">
+        <p id="HomeP">
                 At Idaho River Sports, we value quality over anything else. We sell only the highest quality fabrics
                 and garments. We have a deep rooted passion for all things shorts. It doesn't matter if it's a 10 inch
                 inseam, where the shorts are bordering on capris, or a 2 inch inseam risking ball exposure, we love it
@@ -22,8 +23,6 @@
                 sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus
                 asperiores repellat."
             </p>
-
-
-
-        </body>
+        </div>
+    </body>
 </html>
